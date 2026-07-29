@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0628-maximum-product-of-three-numbers) |
+| [1260-shift-2d-grid](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1260-shift-2d-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3536-maximum-product-of-two-digits) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
