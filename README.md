@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0141-linked-list-cycle) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -89,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
