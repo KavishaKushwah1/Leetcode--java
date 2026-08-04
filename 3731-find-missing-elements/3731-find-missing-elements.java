@@ -4,7 +4,7 @@ class Solution {
         Arrays.sort(nums);
         int small = nums[0];
         int large = nums[nums.length-1];
-        for(int i=small; i<large;i++){
+        for(int i=small; i<=large;i++){
             n.add(i);
         }
         for(int i=0;i<nums.length;i++){
