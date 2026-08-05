@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1406-stone-game-iii) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0977-squares-of-a-sorted-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3731-find-missing-elements) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
