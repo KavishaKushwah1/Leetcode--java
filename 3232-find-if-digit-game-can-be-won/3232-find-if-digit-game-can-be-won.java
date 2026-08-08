@@ -1,13 +1,10 @@
 class Solution {
     public boolean canAliceWin(int[] nums) {
-        int countd = 0, counts = 0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]<10){
-                counts += nums[i];
-            }else{
-                countd += nums[i];
-            }
+        int sum =0;
+        for(int num:nums){
+            if(num<10) sum+=num;
+            else sum-= num;
         }
-        return countd==counts ? false: true;
+        return sum!=0;
     }
 }
