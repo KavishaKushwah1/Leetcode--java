@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1406-stone-game-iii) |
+| [1550-three-consecutive-odds](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2974-minimum-number-game) |
