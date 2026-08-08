@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3348-smallest-divisible-digit-product-ii) |
