@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3024-type-of-triangle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3024-type-of-triangle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0682-baseball-game) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
