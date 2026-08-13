@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0076-minimum-window-substring) |
 | [0657-robot-return-to-origin](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0657-robot-return-to-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -192,4 +194,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3024-type-of-triangle) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
