@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0142-linked-list-cycle-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -94,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0657-robot-return-to-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0076-minimum-window-substring) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
