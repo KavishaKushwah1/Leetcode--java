@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2029-stone-game-ix](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2029-stone-game-ix) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3024-type-of-triangle) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2029-stone-game-ix](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2029-stone-game-ix) |
 | [2769-find-the-maximum-achievable-number](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3024-type-of-triangle) |
@@ -105,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -128,16 +132,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -213,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
