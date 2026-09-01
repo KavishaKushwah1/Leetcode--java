@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1406-stone-game-iii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
