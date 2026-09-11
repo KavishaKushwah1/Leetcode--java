@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0771-jewels-and-stones) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3731-find-missing-elements) |
 ## String
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
