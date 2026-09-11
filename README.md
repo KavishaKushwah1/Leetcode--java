@@ -278,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
