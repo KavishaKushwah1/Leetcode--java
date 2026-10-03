@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0657-robot-return-to-origin) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0877-stone-game) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0032-longest-valid-parentheses) |
 | [0682-baseball-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0682-baseball-game) |
 ## Polygons
 |  |
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
