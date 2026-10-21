@@ -1,52 +1,20 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        int n=nums.length-1;
-        ArrayList<Integer> neg = new ArrayList<>();
-        ArrayList<Integer> pos = new ArrayList<>();
-        for(int num:nums){
-            if(num<0){
-                neg.add(num);
+        int i=0;
+        int j=nums.length-1;
+        int[] res = new int[nums.length];
+        int id=res.length-1;
+        while(i<=j){
+            int left = nums[i]*nums[i];
+            int right = nums[j]*nums[j];
+            if(left>right){
+                res[id] = left;
+                i++;
             }else{
-                pos.add(num);
+                res[id] = right;
+                j--;
             }
-        }
-        if(neg.size()==0){
-            for(int i=0;i<pos.size();i++){
-                pos.set(i, pos.get(i)*pos.get(i));
-            }
-            return pos.stream().mapToInt(Integer::intValue).toArray();
-        }
-        if(pos.size()==0){
-            for(int i=0;i<neg.size();i++){
-                neg.set(i, neg.get(i)*neg.get(i));
-            }
-            Collections.reverse(neg);
-            return neg.stream().mapToInt(Integer::intValue).toArray();
-        }
-        int i=0, j=0, id=0;
-        int n1=pos.size(), n2=neg.size();
-        int [] res = new int[n1+n2];
-        for(i=0;i<pos.size();i++){
-            pos.set(i, pos.get(i)*pos.get(i));
-        }
-        for(j=0; j<neg.size();j++){
-            neg.set(j, neg.get(j)*neg.get(j));
-        }
-        Collections.reverse(neg);
-        i=0;
-        j=0;
-        while(i<n1&&j<n2){
-            if(neg.get(j)<pos.get(i)){
-                res[id++]=neg.get(j++);
-            }else{
-                res[id++]=pos.get(i++);
-            }
-        }
-        while(i<n1){
-            res[id++]=pos.get(i++);
-        }
-        while(j<n2){
-            res[id++]=neg.get(j++);
+            id--;
         }
         return res;
     }
