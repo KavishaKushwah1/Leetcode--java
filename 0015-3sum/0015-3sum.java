@@ -1,36 +1,35 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
-        List<List<Integer>> arr = new ArrayList<>();
-        
+        ArrayList<List<Integer>> res = new ArrayList<>();
         int n = nums.length;
-        for(int i=0;i<n-2;i++){
-            int left =i+1;
-            int right = n-1;
-            int target = nums[i]*-1;
-            if(i>0 && nums[i]==nums[i-1]){
+        for(int k=0;k<n-2;k++){
+            int i=k+1;
+            int j = nums.length-1;
+            int ans = nums[k]*-1;
+            if(k>0&& nums[k]==nums[k-1]){
                 continue;
             }
-            while(left<right){
-                int sum = nums[left]+nums[right];
-                if(sum==target){
-                    arr.add(Arrays.asList(nums[i], nums[left], nums[right]));
-                    left++;
-                    right--;
-                    while(left<right && nums[left]==nums[left-1]){
-                        left++;
+            while(i<j){
+                int sum = nums[i]+nums[j];
+                if(sum==ans){
+                    res.add(Arrays.asList(nums[k], nums[i], nums[j]));
+                    i++;
+                    j--;
+                    while(i<j&&nums[i]==nums[i-1]){
+                        i++;
                     }
-                    while(left<right && nums[right]==nums[right+1]){
-                        right--;
+                    while(i<j&&nums[j]==nums[j+1]){
+                        j--;
                     }
-                }else if(sum <target){
-                    left++;
+                }
+                else if(sum<ans){
+                    i++;
                 }else{
-                    right--;
+                    j--;
                 }
             }
-            
         }
-        return arr;
-}
+        return res;
+    }
 }
