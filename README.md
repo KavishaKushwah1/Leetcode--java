@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1672-richest-customer-wealth) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0032-longest-valid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
