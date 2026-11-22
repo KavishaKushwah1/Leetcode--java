@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0486-predict-the-winner) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0977-squares-of-a-sorted-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0142-linked-list-cycle-ii) |
@@ -334,4 +337,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
