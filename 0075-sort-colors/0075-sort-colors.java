@@ -12,7 +12,7 @@ class Solution {
                 mid++;
             }else if(nums[mid]==1){
                 mid++;
-            }else if(nums[mid]==2){
+            }else {
                 int temp = nums[mid];
                 nums[mid] = nums[high];
                 nums[high] = temp;
