@@ -3,27 +3,26 @@ class Solution {
         Arrays.sort(nums);
         ArrayList<List<Integer>> res = new ArrayList<>();
         int n = nums.length;
-        for(int k=0;k<n-2;k++){
-            int i=k+1;
-            int j = nums.length-1;
-            int ans = nums[k]*-1;
+        for(int k = 0;k<n-2;k++){
             if(k>0&& nums[k]==nums[k-1]){
                 continue;
             }
+            int i=k+1;
+            int j = n-1;
+            int target = nums[k]*-1;
             while(i<j){
                 int sum = nums[i]+nums[j];
-                if(sum==ans){
+                if(sum==target){
                     res.add(Arrays.asList(nums[k], nums[i], nums[j]));
                     i++;
                     j--;
-                    while(i<j&&nums[i]==nums[i-1]){
+                    while(i<j && nums[i]==nums[i-1]){
                         i++;
                     }
-                    while(i<j&&nums[j]==nums[j+1]){
+                    while(i<j && nums[j]==nums[j+1]){
                         j--;
                     }
-                }
-                else if(sum<ans){
+                }else if(sum<target){
                     i++;
                 }else{
                     j--;
