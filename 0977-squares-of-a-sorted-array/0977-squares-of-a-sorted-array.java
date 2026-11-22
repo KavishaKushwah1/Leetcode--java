@@ -7,7 +7,7 @@ class Solution {
         while(i<=j){
             int left = nums[i]*nums[i];
             int right = nums[j]*nums[j];
-            if(left<right){
+            if(left<=right){
                 arr[idx--] = right;
                 j--;
             }else{
