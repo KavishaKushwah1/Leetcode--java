@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1406-stone-game-iii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0142-linked-list-cycle-ii) |
 | [0771-jewels-and-stones](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KavishaKushwah1/Leetcode--java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
