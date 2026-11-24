@@ -1,7 +1,7 @@
 class Solution {
     public int totalFruit(int[] f) {
         int low=0;
-        int max=1;
+        int max=0;
         HashMap<Integer, Integer> freq = new HashMap<>();
         for(int high=0;high<f.length;high++){
             int num = f[high];
